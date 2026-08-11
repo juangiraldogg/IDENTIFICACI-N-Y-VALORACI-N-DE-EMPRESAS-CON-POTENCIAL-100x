@@ -111,20 +111,50 @@ Apliqué esta metodología a cinco empresas, cada una posicionada sobre una de l
 
 ### Lectura empresa por empresa
 
+Antes de entrar en cada una, dos ideas que uso todo el tiempo:
+
+- **Valor por DCF (o valor intrínseco):** lo que el negocio vale «de verdad» según el dinero que generará en el futuro. Si es mayor que el precio de bolsa, la acción está barata; si es menor, está cara.
+- **WACC (tasa de descuento):** el «costo del riesgo» de la empresa. Mientras más alta, más arriesgada la considera el modelo. Una empresa estable ronda 8%; una arriesgada, 12–14% o más.
+
 #### 🟢 Centrus Energy (LEU) — buena opción según fundamentales
-Es la más sólida del grupo. Ya gana dinero de forma consistente y tiene una posición casi única: es el único enriquecedor de uranio occidental que cotiza en bolsa, justo cuando la energía nuclear vuelve a ser prioridad por la demanda de la inteligencia artificial y los reactores modulares. Mi valoración por flujo de caja y por comparables prácticamente coincide con el precio de mercado, lo que significa que no estoy pagando de más: el precio se justifica con el negocio real, y la expansión futura de su capacidad es un extra que no estoy pagando caro.
+
+Es la empresa más sólida del grupo y la única cuyo precio se justifica con lo que gana hoy. Mi modelo la descuenta a un **WACC de 8,5%**, el más bajo de las cinco: es la que el análisis considera *menos arriesgada*, algo lógico porque ya es rentable de forma estable. La proyección muestra un negocio que crece de forma ordenada —de unos **449 a 917 millones de dólares** en ventas en cinco años— con una utilidad neta que sube de **103 a 181 millones**. No es explosivo, pero es sólido y predecible.
+
+El dato más importante: mi valoración por flujo de caja da un valor intrínseco de **~117 dólares por acción**, y el análisis por comparables da todavía más —alrededor de **167 dólares** usando el múltiplo de utilidades—. El precio de mercado ronda los **166 dólares**. Es decir, **lo que pago casi coincide con lo que la empresa vale por sus propios números**. En las otras empresas esa brecha es enorme; aquí prácticamente no existe. No estoy pagando una fantasía: estoy pagando un negocio real y rentable, y su gran expansión futura (el combustible HALEU para reactores nuevos y la demanda energética de la IA) viene casi «de regalo» en el precio.
+
+La sensibilidad lo confirma: incluso en el escenario más pesimista el valor no baja de **~87 dólares**, y en el optimista supera los **220**. **Conclusión: es la apuesta más segura del grupo**, la que menos depende de que «todo salga bien». No será la que multiplique por cien más rápido, pero es la de fundamentos más firmes.
 
 #### 🟡 Hesai (HSAI) — en la mira, alto potencial con riesgo
-Es la historia de crecimiento más pura. Fabrica los sensores LiDAR que la conducción autónoma necesita, es líder mundial y acaba de lograr algo inédito en su sector: volverse rentable. Sus ingresos crecen a gran velocidad y sus márgenes mejoran a medida que gana escala. El pero es doble: es una empresa china, lo que añade riesgo regulatorio y geopolítico, y cotiza en el extremo alto de lo que justifican mis números. Vale mucho la pena tenerla en la mira, pero exige creer en su ejecución.
 
-#### 🟡 MP Materials (MP) — en la mira, en transición
-Es la única cadena completa de tierras raras —de la mina al imán— en Estados Unidos, un insumo crítico para vehículos eléctricos y defensa que hoy domina China. Acaba de cruzar a generar caja operativa y cuenta con respaldo directo del gobierno (contratos y un precio mínimo garantizado). Cotiza con una prima importante sobre lo que valen sus operaciones actuales, porque el mercado paga por su posición estratégica única. Buena candidata si ejecuta su plan de imanes.
+Es la historia de crecimiento más impresionante y también la que exige más fe. Fabrica los sensores LiDAR que permiten a los vehículos «ver», es líder mundial y acaba de volverse rentable, algo inédito en su sector. La proyección lo refleja de forma espectacular: **los ingresos casi se cuadruplican en cinco años** (de ~3.000 a ~12.000 millones de yuanes) mientras el margen operativo sube del **6% al 18%**. Ese salto de margen es la clave: a medida que vende más, gana proporcionalmente mucho más, porque sus costos fijos (sobre todo investigación) crecen más despacio que las ventas. La utilidad neta se multiplica por cinco.
 
-#### 🟢 Pure Cycle (PCYO) — buena opción, compounder paciente
-Es la más tranquila y predecible. Lleva años ganando dinero de forma ininterrumpida vendiendo agua, desarrollando tierra y alquilando vivienda cerca de Denver. Su verdadero tesoro son sus derechos de agua: tiene capacidad para servir a decenas de miles de conexiones y hoy usa solo una fracción mínima. A medida que la zona crece, ese recurso escaso se convierte en ingresos de alto margen. No hará un 100x rápido, pero es un compounder de calidad con un activo oculto valioso.
+El «pero» está en el riesgo. Mi modelo la descuenta a un **WACC de 14%, el más alto de las cinco**. No es capricho: refleja que es una empresa china (con riesgo regulatorio y geopolítico) y de crecimiento no probado a largo plazo. Con ese riesgo incorporado, mi valoración da **~18 dólares por acción frente a un precio de 22**: cotiza un poco por encima de lo que mis números justifican hoy. La sensibilidad muestra un rango amplio —de **13 a 33 dólares**—, típico de una empresa de crecimiento: si ejecuta bien, el premio es grande; si el margen se estanca o el riesgo país aumenta, el valor cae rápido.
+
+**Conclusión: es la de mayor potencial de multiplicación, pero también la de mayor incertidumbre.** No la llamo «compra segura» porque hoy paga un poco caro y el riesgo es real, pero es exactamente el tipo de empresa —pequeña en su mercado, sobre una necesidad futura enorme— donde viven los 100x. Vale mucho la pena vigilarla.
+
+#### 🟡 MP Materials (MP) — en la mira, en plena transición
+
+Es la única cadena completa de tierras raras —de la mina al imán terminado— en Estados Unidos, un insumo que hoy domina China y es crítico para autos eléctricos y defensa. Está en un momento bisagra: acaba de empezar a generar caja, y mi proyección modela cómo su margen operativo pasa de apenas **2% a 22%** en cinco años a medida que su negocio de imanes toma escala, con las ventas creciendo de **~400 a 1.350 millones de dólares**.
+
+Aquí la brecha entre valor y precio es la señal clave. Mi valoración por flujo de caja da **~10 dólares por acción, mientras el precio ronda los 48**. En simple: **el mercado paga casi cinco veces lo que valen sus operaciones actuales**. Eso no la hace mala automáticamente; significa que quien la compra hoy paga por su *posición estratégica única* —ser el campeón occidental de un material crítico— y por el respaldo del gobierno de EE.UU. (precio mínimo garantizado y contratos). El modelo de comparables por valor en libros sugiere un valor más alto (**~25 dólares**), lo que confirma que parte de su valor está en sus activos y su posición, no solo en las ganancias de este año.
+
+**Conclusión: es una apuesta a una transición que ya empezó y con un respaldo político poco común.** El precio incorpora una prima grande, así que no es una ganga; pero si ejecuta su plan de imanes, la prima puede quedar justificada. La pongo «en la mira» por eso: fundamentos que mejoran rápido, pero un precio que ya descuenta buena parte del éxito.
+
+#### 🟢 Pure Cycle (PCYO) — buena opción, un compounder paciente
+
+Es la más tranquila y predecible de todas. Lleva años ganando dinero de forma ininterrumpida con tres negocios que se complementan: vender agua, desarrollar tierra y alquilar vivienda cerca de Denver. Mi modelo la descuenta a un **WACC de 8,4%** —de los más bajos, o sea, riesgo bajo— y da un valor intrínseco de **~7,5 dólares por acción frente a un precio de 10**. A primera vista parece algo cara, pero hay un matiz decisivo que el flujo de caja tradicional no captura.
+
+Su verdadero tesoro son sus **derechos de agua**. Tiene capacidad para servir a decenas de miles de conexiones y hoy usa apenas una fracción mínima. En el modelo, ese recurso escaso está registrado a su costo histórico —mucho más bajo que su valor real—, de modo que el valor por activos (NAV) de la compañía es bastante mayor que su valor por flujo de caja. En otras palabras: **el flujo de caja actual subestima lo que la empresa vale**, porque no refleja el enorme valor latente del agua que aún no vende. A medida que Denver crece, ese recurso se convierte poco a poco en ingresos de alto margen sin apenas inversión adicional.
+
+Un detalle que me gustó del análisis: su ciclo de conversión de efectivo es **negativo (~−33 días)**, lo que significa que *cobra a sus clientes antes de tener que pagar a sus proveedores* —señal de un negocio muy bien gestionado—. **Conclusión: no hará un 100x rápido, pero es un compounder de calidad, rentable y de bajo riesgo, con un activo oculto (el agua) que le da un potencial de subida que el precio de hoy no reconoce del todo.**
 
 #### 🔴 Energy Fuels (UUUU) — no es buena opción hoy, salvo que mejore
-Es la más especulativa. Todavía pierde dinero, así que no se puede valorar por sus flujos: hay que valorarla por sus activos. Y ahí está el problema: el negocio operativo vale bastante menos que su precio de mercado. Lo que el mercado está pagando es su enorme colchón de caja y la opción de que su transformación hacia las tierras raras funcione. Es una apuesta a futuro respaldada por un balance fuerte, pero hoy el precio no lo justifican los fundamentales. Vale la pena vigilarla: si logra volverse rentable en tierras raras, la historia cambia por completo.
+
+Es la más especulativa de las cinco, y los números lo dejan muy claro. Todavía **pierde dinero**: mi proyección muestra que su margen operativo parte de **−30%** y no cruza a positivo hasta el tercer año, con la primera utilidad neta llegando apenas en el segundo. Como hoy no genera ganancias estables, valorarla solo por su flujo de caja es engañoso, así que la analicé también por el valor de sus activos.
+
+Y ahí está el problema de fondo. Mi valoración por flujo de caja da apenas **~3 dólares por acción, mientras el precio ronda los 16**. Es la brecha más grande de todo el portafolio: **el negocio operativo vale una fracción de lo que cuesta la acción**. Incluso en el escenario más optimista de la sensibilidad el valor no pasa de **~6 dólares** —nunca se acerca al precio—. ¿Qué paga entonces el mercado? Dos cosas: su *enorme colchón de caja e inversiones* (cientos de millones que le dan aire para años) y la *opción* de que su transformación hacia las tierras raras funcione. Se paga por una promesa a futuro, no por lo que la empresa es hoy.
+
+**Conclusión: hoy el precio no lo justifican los fundamentales.** No es una recomendación de compra al precio actual, porque estaría pagando sobre todo esperanza respaldada por un buen balance. Dicho esto, la dejo «para vigilar»: **si logra volverse rentable en tierras raras —el punto de inflexión que el modelo sitúa alrededor del tercer año— la historia cambia por completo** y lo que hoy parece caro podría verse barato en retrospectiva. Es la apuesta de mayor riesgo y mayor rango de resultados posibles.
 
 ---
 
