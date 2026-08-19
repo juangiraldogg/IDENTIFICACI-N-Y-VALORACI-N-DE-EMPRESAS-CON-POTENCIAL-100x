@@ -1,4 +1,4 @@
-# 📈 Identificación, Análisis Fundamental y Valoración de Empresas
+[# 📈 Identificación, Análisis Fundamental y Valoración de Empresas
 
 > Una investigación de inversión basada en el enfoque de **100 Baggers**, aplicado a materiales críticos, energía nuclear, agua y tecnología de autonomía.
 
@@ -194,3 +194,4 @@ Cada modelo de Excel contiene: hoja de datos, estados financieros, análisis de 
 *Verifica cada cifra en las fuentes oficiales (SEC EDGAR) antes de tomar cualquier decisión. Invertir conlleva riesgo de pérdida de capital.*
 
 </div>
+](https://github.com/juangiraldogg/IDENTIFICACION-Y-VALORACION-DE-EMPRESAS-CON-POTENCIAL-DE-ALTO-RETORNO)
