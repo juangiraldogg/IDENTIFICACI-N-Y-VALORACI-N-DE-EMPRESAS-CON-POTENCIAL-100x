@@ -1,4 +1,4 @@
-# 📈 Identificación y Valoración de Empresas con Potencial 100x
+# 📈 Identificación, Análisis Fundamental y Valoración de Empresas
 
 > Una investigación de inversión basada en el enfoque de **100 Baggers**, aplicado a materiales críticos, energía nuclear, agua y tecnología de autonomía.
 
